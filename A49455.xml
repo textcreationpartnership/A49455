@@ -1,0 +1,511 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An auction of paintings most of them being from the collections of Prince Ludovico and General Doushfeild lately brought over and consisting of the works of Guido Rheno. ... Bambotts, &amp;c. Will be on Fryday and Saturday the 22d. and 23d. of this instant January, at the Vendu next Bedford-gate in Charles-street Covent-Garden, beginning at 4 precisely, and will be sold the fair way according to the course of the catalogue. A large collection will be continued every Fryday following during the gentrys stay in town, sold by Edward Millington, where is likewise a curious invention of lights, whereby the pictures may be seen as well as by day, the conditions of sale are, ...</title>
+            <author>Millington, Edward, d. 1703.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1692</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 12 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A49455</idno>
+            <idno type="STC">Wing L3471</idno>
+            <idno type="STC">ESTC R223696</idno>
+            <idno type="EEBO-CITATION">99833981</idno>
+            <idno type="PROQUEST">99833981</idno>
+            <idno type="VID">38460</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A49455)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 38460)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1836:2)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An auction of paintings most of them being from the collections of Prince Ludovico and General Doushfeild lately brought over and consisting of the works of Guido Rheno. ... Bambotts, &amp;c. Will be on Fryday and Saturday the 22d. and 23d. of this instant January, at the Vendu next Bedford-gate in Charles-street Covent-Garden, beginning at 4 precisely, and will be sold the fair way according to the course of the catalogue. A large collection will be continued every Fryday following during the gentrys stay in town, sold by Edward Millington, where is likewise a curious invention of lights, whereby the pictures may be seen as well as by day, the conditions of sale are, ...</title>
+                  <author>Millington, Edward, d. 1703.</author>
+               </titleStmt>
+               <extent>[1], 3 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1692]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imprint from from Wing.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Art --  England --  Catalogs --  Early works to 1800.</term>
+               <term>Art auctions --  England --  London --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-02</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-03</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-08</date>
+            <label>Lauren Proux</label>Sampled and proofread</change>
+         <change>
+            <date>2009-08</date>
+            <label>Lauren Proux</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:38460:1"/>
+            <pb facs="tcp:38460:1" rendition="simple:additions"/>
+            <p>An AUCTION of PAINTINGS Moſt of them being from the COLLECTIONS of Prince Ludovico AND General Douſhfeild,</p>
+            <p>Lately brought over and conſiſting of the WORKS of
+<list>
+                  <item>
+                     <hi>Guido Rheno.</hi>
+                  </item>
+                  <item>
+                     <hi>Rubens.</hi>
+                  </item>
+                  <item>
+                     <hi>Hannable Caratche.</hi>
+                  </item>
+                  <item>
+                     <hi>Van-Dyck.</hi>
+                  </item>
+                  <item>
+                     <hi>Titian.</hi>
+                  </item>
+                  <item>
+                     <hi>Raphael de <g ref="char:V">Ʋ</g>rben.</hi>
+                  </item>
+                  <item>
+                     <hi>Brower.</hi>
+                  </item>
+                  <item>
+                     <hi>Dowe.</hi>
+                  </item>
+                  <item>
+                     <hi>Ablert Durer.</hi>
+                  </item>
+                  <item>
+                     <hi>Pouſſin.</hi>
+                  </item>
+                  <item>
+                     <hi>Le Brune.</hi>
+                  </item>
+                  <item>
+                     <hi>Frances Floras.</hi>
+                  </item>
+                  <item>
+                     <hi>Do Heem.</hi>
+                  </item>
+                  <item>
+                     <hi>Spranger.</hi>
+                  </item>
+                  <item>
+                     <hi>Percellus.</hi>
+                  </item>
+                  <item>
+                     <hi>Mola.</hi>
+                  </item>
+                  <item>
+                     <hi>Hunthorſt.</hi>
+                  </item>
+                  <item>
+                     <hi>Teneers.</hi>
+                  </item>
+                  <item>
+                     <hi>Dukoning.</hi>
+                  </item>
+                  <item>
+                     <hi>Segers.</hi>
+                  </item>
+                  <item>Old <hi>Van Son.</hi>
+                  </item>
+                  <item>
+                     <hi>Soft Laven.</hi>
+                  </item>
+                  <item>
+                     <hi>Cornelius Van Herlem.</hi>
+                  </item>
+                  <item>
+                     <hi>Bambotts, &amp;c.</hi>
+                  </item>
+               </list>
+            </p>
+            <p>Will be on <hi>Fryday</hi> and <hi>Saturday</hi> the 22d. and 23d. of this Inſtant <hi>January,</hi> at the VENDU next <hi>Bedford-Gate</hi> in <hi>Charles-ſtreet Covent-Garden,</hi> beginning at 4 preciſely, and will be ſold the fair way according to the courſe of the Catalogue.</p>
+            <p>A Large Collection will be continued every <hi>Fryday</hi> fol<g ref="char:EOLhyphen"/>lowing during the Gentrys ſtay in Town, ſold by <hi>EDWARD MILLINGTON,</hi> where is likewiſe a Curious Invention of LIGHTS, whereby the PICTURES may be ſeen as well as by day,</p>
+            <p>The Conditions of Sale are, none to bid leſs then ſixpence, after one Pound a Shilling, after twenty Pounds five Shillings, if a difference ariſeth to put it up again, to pay half a Crown in the Pound down if requir'd, and to fetch them away within three days after they are bought.</p>
+         </div>
+      </front>
+      <body>
+         <div type="collection">
+            <pb n="1" facs="tcp:38460:2"/>
+            <list>
+               <item>1 ONE cutting a Pen by a good Hand.</item>
+               <item>2 One Reading a Letter <hi>ditto.</hi>
+               </item>
+               <item>3 One weighing of Gold, <hi>ditto.</hi>
+               </item>
+               <item>4 An old Man after <hi>Titian.</hi>
+               </item>
+               <item>5 A Woman <hi>ditto.</hi>
+               </item>
+               <item>6 A ſmall Landskip by a good Maſter.</item>
+               <item>7 A Head of oua Saviour by <hi>Albert Durer.</hi>
+               </item>
+               <item>8 A Young mans head by an <hi>Italian.</hi>
+               </item>
+               <item>9 An Empreſs with her Son <hi>King of Hungary.</hi>
+               </item>
+               <item>10 A Peice after <hi>Bambots.</hi>
+               </item>
+               <item>11 A Landskip by an <hi>Italian.</hi>
+               </item>
+               <item>12 A Flower-piece by <hi>Van Serſon.</hi>
+               </item>
+               <item>13 Flowers after <hi>Lariſs.</hi>
+               </item>
+               <item>14 A Country-man and his Wife by as good a hand as <hi>Titian.</hi>
+               </item>
+               <item>15 <hi>Venus</hi> and 3 <hi>Cupids</hi> by an <hi>Italian.</hi>
+               </item>
+               <item>16 A painting of <hi>Van Dyck.</hi>
+               </item>
+               <item>17 A Dog and Wolf.</item>
+               <item>18 Rocks by <hi>Johannes Sceurman.</hi>
+               </item>
+               <item>19 A Bare, <hi>ditto,</hi>
+               </item>
+               <item>20 Another <hi>ditto.</hi>
+               </item>
+               <item>21 Another <hi>ditto.</hi>
+               </item>
+               <item>22 A Woman before a Looking-glaſs by <hi>Merius.</hi>
+               </item>
+               <item>23 A ſmall Landskip by <hi>Gaſper Pouſſin.</hi>
+               </item>
+               <item>24 A Battel by <hi>Courtan</hi> in <hi>Freſco.</hi>
+               </item>
+               <item>25 A Battel by <hi>Le-Brune</hi> in Grey Colours.</item>
+               <item>26 Another Original <hi>ditto.</hi>
+               </item>
+               <item>27 A head after <hi>Hercules Procacino.</hi>
+               </item>
+               <item>28 Another <hi>ditto.</hi>
+               </item>
+               <item>29 Our Saviour with <hi>Mary Magdelen</hi> by an <hi>Italian.</hi>
+               </item>
+               <item>30 Two weeping heads by <hi>Cornelius Van Herlem.</hi>
+               </item>
+               <item>31 A Country-man with his Pipe by <hi>Brower.</hi>
+               </item>
+               <item>32 The fall of <hi>Lucifer</hi> in Limning, by <hi>Rubens.</hi>
+               </item>
+               <item>33 A Chriſtmas night by <hi>Soft Leven.</hi>
+               </item>
+               <item>34 Fruit and Flowers very fine by <hi>Vanſon</hi> the elder.</item>
+               <item>35 <hi>Judith</hi> with the head of <hi>Olefernes</hi> by <hi>Titian.</hi>
+               </item>
+               <item>36 A Womans head by <hi>Franciſco Floras.</hi>
+               </item>
+               <item>37 <hi>Suſanna</hi> with the two Elders by <hi>Joſeph Hindes.</hi>
+               </item>
+               <item>38 A Landskip after <hi>Brugel</hi> with Ships.</item>
+               <item>39 Our Saviour in the garden in the manner of <hi>Baſſan.</hi>
+               </item>
+               <item>40 Two heads by <hi>Van Dyck.</hi>
+               </item>
+               <item>41 A Switzar by <hi>Merius.</hi>
+               </item>
+               <item>42 A Flower-pot by a great Maſter.</item>
+               <item>43 Another <hi>ditto.</hi>
+               </item>
+               <item>44 A Souldier by <hi>Hunthorſt.</hi>
+               </item>
+               <item>45 A Turk by a great Maſter.</item>
+               <item>46 A Fruit-piece by a great Maſter.</item>
+               <item>47 Our Saviour Teaching after <hi>Jerſon.</hi>
+               </item>
+               <item>48 A Hare and fowls by <hi>Billfies.</hi>
+               </item>
+               <item>49 A Brown Landskip by an <hi>Italian.</hi>
+               </item>
+               <item>50 A Woman upon the water after <hi>Alban.</hi>
+               </item>
+               <item>51 <hi>Cadmus</hi> and the <hi>Dragon</hi> by an <hi>Italian.</hi>
+               </item>
+               <item>52 A Basket with Flowers finely done.</item>
+               <item>53 Another <hi>ditto.</hi>
+               </item>
+               <item>54 A naked woman finely Painted</item>
+               <item>55 Our <hi>Saviour</hi> and <hi>Mary</hi> on Silver.</item>
+               <pb n="2" facs="tcp:38460:2"/>
+               <item>56 <hi>Peters</hi> denyall a Night-piece by <hi>Segers.</hi>
+               </item>
+               <item>57 <hi>Ma<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>y Magdelen</hi> by <hi>Van Dyck.</hi>
+               </item>
+               <item>58 A Dog and Monkey well painted.</item>
+               <item>59 Another <hi>ditto.</hi>
+               </item>
+               <item>60 A Flower-piece by a Dutch maſter.</item>
+               <item>61 A Droll by <hi>Brower.</hi>
+               </item>
+               <item>62 Another <hi>ditto.</hi>
+               </item>
+               <item>63 A Country-man and his wife by <hi>Hoſtaten.</hi>
+               </item>
+               <item>64 A Landskip with an Egadiſe by <hi>Antomerſille.</hi>
+               </item>
+               <item>65 <hi>Mercury, Venus,</hi> and <hi>Cupid</hi> by <hi>Spranger.</hi>
+               </item>
+               <item>66 A Turk by a good Maſter.</item>
+               <item>67 A Country-man and his wife by <hi>Teneers.</hi>
+               </item>
+               <item>68 Two Monkeys after <hi>Teneers.</hi>
+               </item>
+               <item>69 A Landskip by <hi>Pouſſin.</hi>
+               </item>
+               <item>70 Another <hi>ditto.</hi>
+               </item>
+               <item>71 Another <hi>ditto.</hi>
+               </item>
+               <item>72 Another <hi>ditto.</hi>
+               </item>
+               <item>73 A Map of <hi>England</hi> and <hi>Italy.</hi>
+               </item>
+               <item>74 A Landskip by <hi>Franciſco Mola.</hi>
+               </item>
+               <item>75 St. <hi>John</hi> with a Lamb after <hi>Goltius.</hi>
+               </item>
+               <item>76 A fine piece of Ducks after <hi>Caſtillian.</hi>
+               </item>
+               <item>77 A Landskip by a diſciple of <hi>Salvator Roſe.</hi>
+               </item>
+               <item>78 Another <hi>ditto.</hi>
+               </item>
+               <item>79 Another Landskip <hi>ditto.</hi>
+               </item>
+               <item>80 Another <hi>ditto.</hi>
+               </item>
+               <item>81 An <hi>Italian</hi> Landskip.</item>
+               <item>82 A Flower-piece with a China-diſh by <hi>Frances Ike.</hi>
+               </item>
+               <item>83 A Woman by an <hi>Italian.</hi>
+               </item>
+               <item>84 A Woman after <hi>Chriſtopher Swart.</hi>
+               </item>
+               <item>85 A Womans face by an <hi>Italian.</hi>
+               </item>
+               <item>86 <hi>Merius's</hi> own head by himſelf.</item>
+               <item>87 Fruit with a Lobſter by <hi>Deheem.</hi>
+               </item>
+               <item>88 Another Fruit piece by <hi>De Heem.</hi>
+               </item>
+               <item>89 A Landskip by an <hi>Italian.</hi>
+               </item>
+               <item>90 A ſmall Landskip by a Dutch Maſter.</item>
+               <item>91 A Country-Man playing on his Bagpipes.</item>
+               <item>92 Another piece <hi>ditto.</hi>
+               </item>
+               <item>93 A Landskip well Painted.</item>
+               <item>94 Another <hi>ditto.</hi>
+               </item>
+               <item>95 <hi>Democritus</hi> and <hi>Heroclitus</hi> by an <hi>Italian.</hi>
+               </item>
+               <item>96 St. <hi>Michael</hi> by <hi>Schunvelt.</hi>
+               </item>
+               <item>97 Another piece <hi>ditto.</hi>
+               </item>
+               <item>98 A Face by <hi>Sebaſtian.</hi>
+               </item>
+               <item>99 One blowing a light by <hi>Hunthorſt.</hi>
+               </item>
+               <item>100 A Head by <hi>Van-Dyck.</hi>
+               </item>
+               <item>101 A Head by <hi>Rubens.</hi>
+               </item>
+               <item>102 A Fortune as big as the Life by <hi>Guido Rheno.</hi>
+               </item>
+               <item>103 The Fall of <hi>Phaeton</hi> by <hi>Raphael de <g ref="char:V">Ʋ</g>rben.</hi>
+               </item>
+               <item>104 An Old Man reading a letter by <hi>Solomon Dukoning.</hi>
+               </item>
+               <item>105 Flowers and Inſects by <hi>La Riſs.</hi>
+               </item>
+               <item>106 The <hi>Virgin Mary</hi> and Angels in Copper by <hi>Rubens.</hi>
+               </item>
+               <item>107 <hi>David</hi> with the Head of <hi>Goliah</hi> by <hi>Hannable Caratche.</hi>
+               </item>
+               <item>108 The ſcurging our Saviour by <hi>Barlolet.</hi>
+               </item>
+               <item>109 A Sea-ſtorm by <hi>Percellus.</hi>
+               </item>
+               <item>110 A Landspip with and Egodiſe.</item>
+               <item>111 <hi>Mary Magdalen</hi> by <hi>Hulſtman.</hi>
+               </item>
+               <item>112 A Womans Head by <hi>Le Brune.</hi>
+               </item>
+               <item>113 Our <hi>Saviour on the Croſs</hi> by <hi>Dumerri.</hi>
+               </item>
+               <pb n="3" facs="tcp:38460:3"/>
+               <item>114 A Dr. of Phyſick by <hi>Dowe.</hi>
+               </item>
+               <item>115 A piece in the manner of <hi>Van-Dyck.</hi>
+               </item>
+               <item>116 A piece after <hi>Titian.</hi>
+               </item>
+               <item>117 A Landskip on Copper after <hi>Brugel.</hi>
+               </item>
+               <item>118 A piece by a good <hi>Italian Maſter.</hi>
+               </item>
+               <item>119 A Sot finely Painted by <hi>Van Derſt.</hi>
+               </item>
+               <item>120 A Landskip with Figures and Cattle.</item>
+               <item>121 A good Fellow finely painted by <hi>Vandreſt.</hi>
+               </item>
+               <item>122 A fine Original Sea-piece by <hi>Bryen.</hi>
+               </item>
+               <item>123 A piece of Smoakers by <hi>Hemskirk.</hi>
+               </item>
+               <item>124 A fine Original Winter-piece.</item>
+               <item>125 A Head by <hi>Vilbert.</hi>
+               </item>
+               <item>126 A Head in little very curious.</item>
+               <item>127 A head by <hi>Andrea del Certa.</hi>
+               </item>
+               <item>128 Stillife by a Dutch Maſter.</item>
+               <item>129 A <hi>Madona</hi> by a diſciple of <hi>Rubens.</hi>
+               </item>
+               <item>130 an old mans head ſuppos'd <hi>Rembrant.</hi>
+               </item>
+               <item>131 A <hi>Magdalen</hi> a neat original.</item>
+               <item>132 A Drake, Rabit, <hi>&amp;c.</hi> by <hi>S<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>reſor.</hi>
+               </item>
+               <item>133 Fruit by a diſciple of <hi>Bogdane.</hi>
+               </item>
+               <item>134 A Curious peice of Proſpective by <hi>De Neef.</hi>
+               </item>
+               <item>135 <hi>Van Dycke</hi> head by himſelf.</item>
+               <item>136 Rheniſh wine and Oyſters by <hi>Van Hatten.</hi>
+               </item>
+               <item>137 A Landskip by a Dutch Maſter.</item>
+               <item>138 A proſpect of Sheerneſs by <hi>Sale Maker.</hi>
+               </item>
+               <item>139 A Sea-port finely painted.</item>
+               <item>140 A Battel between the French and Engliſh, original.</item>
+               <item>141 A fine original Landskip.</item>
+               <item>142 A ſmall Sea-piece by <hi>Sale Maker.</hi>
+               </item>
+               <item>143 A Sea port finely painted.</item>
+               <item>144 A Boy crying for his pap by <hi>Bellaſear.</hi>
+               </item>
+               <item>145 A woman looking out of a window.</item>
+               <item>146 Stillife in ſmall well done by <hi>Litlle houſe.</hi>
+               </item>
+               <item>157 A piece of Books <hi>ditto.</hi>
+               </item>
+               <item>148 A Moonlight Sea-piece in ſmall by <hi>Moy.</hi>
+               </item>
+               <item>149 An oval Landskip well done in little.</item>
+               <item>150 A piece of Books by <hi>Little houſe.</hi>
+               </item>
+               <item>451 A Dutch man and woman.</item>
+               <item>152 A Landskip by <hi>Van helt.</hi>
+               </item>
+               <item>153 A Froſt-piece <hi>ditto.</hi>
+               </item>
+               <item>154 A Landskip <hi>ditto.</hi>
+               </item>
+               <item>155 K. <hi>William</hi> and Q. <hi>Mary.</hi>
+               </item>
+               <item>156 A Landskip of <hi>Helford.</hi>
+               </item>
+               <item>157 A Land-ſtorm, <hi>ditto.</hi>
+               </item>
+               <item>158 A Landskip.</item>
+               <item>159 A winter-piece.</item>
+               <item>160 A Landskip by a Ducth Maſter.</item>
+               <item>161 Another <hi>ditto</hi>
+               </item>
+               <item>162 A winter-piece.</item>
+               <item>163 A Landskip.</item>
+               <item>164 A Sea-piece.</item>
+               <item>165 A Landskip.</item>
+               <item>166 A winter-piece.</item>
+               <item>167 A Land-ſtorm.</item>
+               <item>168 A Sea piece.</item>
+               <item>169 A Sea Haven.</item>
+               <item>170 C. <hi>William</hi> and Q. <hi>Mary</hi> in ſmall.</item>
+               <item>171 A Sea piece.</item>
+               <item>172 A Landskip.</item>
+               <item>173 A Sea piece.</item>
+               <item>174 A Landskip.</item>
+               <item>175 Another <hi>ditto.</hi>
+               </item>
+               <item>176 A Battle piece.</item>
+            </list>
+            <pb facs="tcp:38460:3"/>
+         </div>
+      </body>
+   </text>
+</TEI>
